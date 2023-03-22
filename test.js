@@ -4,7 +4,7 @@ function login() {
   
   // Client-side validation
   if (username == "" || password == "") {
-    alert("Username and password are required");
+    alert("Usernames and password are required");
     return false;
   }
   
